@@ -1,0 +1,903 @@
+[
+  {
+    "id": "job_001",
+    "title": "Senior iOS Engineer",
+    "company": "TechNova Solutions",
+    "location": "San Francisco, CA (Hybrid)",
+    "salary_range": "$140,000 - $180,000",
+    "description": "We are seeking a Senior iOS Engineer to lead the development of our next-generation mobile banking platform. You will design and build scalable, secure, and high-performance applications using Swift and SwiftUI, collaborate with cross-functional teams, and mentor junior developers.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_002",
+    "title": "iOS Developer",
+    "company": "PixelPerfect Apps",
+    "location": "Remote (US)",
+    "salary_range": "$110,000 - $135,000",
+    "description": "Join our creative studio and help us build beautifully designed consumer applications. In this role, you will focus on crafting smooth animations, implementing pixel-perfect UI designs, and optimizing app performance across various iOS devices.",
+    "company_info": "PixelPerfect Apps is an award-winning design and development agency. We partner with global brands to create memorable digital experiences, fostering a highly collaborative and remote-first work environment."
+  },
+  {
+    "id": "job_003",
+    "title": "Staff Mobile Engineer (iOS)",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX",
+    "salary_range": "$190,000 - $220,000",
+    "description": "As a Staff Mobile Engineer, you will set the technical direction for our iOS ecosystem. You will architect core systems, establish engineering best practices, and drive the integration of IoT smart-grid monitoring tools into our mobile suite.",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_004",
+    "title": "Junior iOS Engineer",
+    "company": "TechNova Solutions",
+    "location": "New York, NY (On-site)",
+    "salary_range": "$85,000 - $105,000",
+    "description": "Kickstart your career with our core mobile team! You will assist in feature development, write unit tests, fix bugs, and learn modern iOS architecture patterns (MVVM) from seasoned industry veterans.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_005",
+    "title": "Senior Frontend Developer",
+    "company": "Quantum Leap AI",
+    "location": "Seattle, WA (Hybrid)",
+    "salary_range": "$150,000 - $190,000",
+    "description": "Build high-fidelity web dashboards for enterprise generative AI applications. Must be proficient in React, TypeScript, Tailwind CSS, and data visualization libraries like D3.js or Recharts.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_006",
+    "title": "Backend Systems Engineer",
+    "company": "CloudVault Data",
+    "location": "Denver, CO",
+    "salary_range": "$130,000 - $165,000",
+    "description": "Optimize distributed storage engines and build highly available APIs using Go and gRPC. Experience with distributed consensus protocols (Raft/Paxos) and Kubernetes is strongly preferred.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_007",
+    "title": "Full Stack Developer",
+    "company": "OmniRetail Corp",
+    "location": "Remote (Global)",
+    "salary_range": "$95,000 - $130,000",
+    "description": "Maintain and scale our e-commerce checkout architecture. Tech stack includes Node.js, Next.js, and PostgreSQL. You will build user-facing features while optimizing database performance.",
+    "company_info": "OmniRetail operates thousands of storefront systems internationally. We are currently modernizing our monolithic codebase into microservices to handle holiday-level traffic year-round."
+  },
+  {
+    "id": "job_008",
+    "title": "UI/UX Product Designer",
+    "company": "DesignStudio Labs",
+    "location": "Los Angeles, CA",
+    "salary_range": "$105,000 - $140,000",
+    "description": "Own the design lifecycle for multiple mobile-first consumer brands. Create high-fidelity Figma prototypes, conduct rigorous user testing interviews, and translate user feedback into clean UI components.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_009",
+    "title": "Data Scientist",
+    "company": "FinInsight Analytics",
+    "location": "Boston, MA (On-site)",
+    "salary_range": "$125,000 - $160,000",
+    "description": "Develop algorithmic trading models and predictive risk matrices using Python, Pandas, and Scikit-Learn. Work closely with portfolio managers to backtest active market-neutral strategies.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_010",
+    "title": "DevOps Engineer",
+    "company": "CyberShield Inc",
+    "location": "Remote (US/Canada)",
+    "salary_range": "$140,000 - $175,000",
+    "description": "Architect Infrastructure as Code (IaC) solutions via Terraform across multi-cloud environments (AWS and GCP). Implement automated CI/CD pipelines to enforce zero-trust deployment guardrails.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_011",
+    "title": "Product Manager",
+    "company": "HealthFlow Diagnostics",
+    "location": "Chicago, IL",
+    "salary_range": "$120,000 - $155,000",
+    "description": "Define product roadmaps for a fleet of patient-facing telemedicine tools. Coordinate between clinical compliance teams, hardware engineering, and internal software designers to launch features.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_012",
+    "title": "QA Automation Engineer",
+    "company": "LogiRoute Software",
+    "location": "Atlanta, GA",
+    "salary_range": "$90,000 - $115,000",
+    "description": "Write comprehensive automated testing suites using Playwright, Cypress, and Appium. Integrate test runs into GitHub Actions pipelines to intercept regressions prior to staging updates.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_013",
+    "title": "Machine Learning Engineer",
+    "company": "Quantum Leap AI",
+    "location": "San Francisco, CA (Hybrid)",
+    "salary_range": "$170,000 - $230,000",
+    "description": "Fine-tune multi-modal LLMs for proprietary enterprise data schemas. Optimize inference times using TensorRT and manage model orchestration pipelines across large GPU clusters.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_014",
+    "title": "Android Developer",
+    "company": "PixelPerfect Apps",
+    "location": "Remote (US)",
+    "salary_range": "$115,000 - $140,000",
+    "description": "Develop native Android companion applications matching our iOS suite using Jetpack Compose and Kotlin. Ensure backward compatibility and enforce clean architecture patterns (MVI).",
+    "company_info": "PixelPerfect Apps is an award-winning design and development agency. We partner with global brands to create memorable digital experiences, fostering a highly collaborative and remote-first work environment."
+  },
+  {
+    "id": "job_015",
+    "title": "Scrum Master",
+    "company": "OmniRetail Corp",
+    "location": "Dallas, TX",
+    "salary_range": "$100,000 - $125,000",
+    "description": "Facilitate agile ceremonies, remove structural blockers, and optimize sprint velocity metrics across four international engineering pods transitioning away from legacy workflows.",
+    "company_info": "OmniRetail operates thousands of storefront systems internationally. We are currently modernizing our monolithic codebase into microservices to handle holiday-level traffic year-round."
+  },
+  {
+    "id": "job_016",
+    "title": "Technical Writer",
+    "company": "CloudVault Data",
+    "location": "Remote (US)",
+    "salary_range": "$80,000 - $110,000",
+    "description": "Author clean API reference documentation, architectural tutorials, and migration guides targeting deep enterprise systems developers interacting with secure decentralized data engines.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_017",
+    "title": "Database Administrator",
+    "company": "FinInsight Analytics",
+    "location": "New York, NY",
+    "salary_range": "$135,000 - $170,000",
+    "description": "Manage multi-terabyte, high-frequency transactional SQL Server and PostgreSQL databases. Implement active sharding strategies, index optimizations, and dynamic failover setups.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_018",
+    "title": "Site Reliability Engineer",
+    "company": "CyberShield Inc",
+    "location": "Remote (Global)",
+    "salary_range": "$150,000 - $195,000",
+    "description": "Maintain continuous availability of cloud infrastructure. Build observability dashboards using Prometheus and Grafana, coordinate incident response drills, and investigate complex system anomalies.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_019",
+    "title": "SEO Specialist",
+    "company": "MarketPulse Media",
+    "location": "Miami, FL",
+    "salary_range": "$70,000 - $95,000",
+    "description": "Audit and improve organic search footprints across consumer portfolios. Lead keyword research campaigns, internal linking cleanups, and analyze rankings using Google Search Console.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_020",
+    "title": "HR Generalist",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX",
+    "salary_range": "$75,000 - $95,000",
+    "description": "Oversee employee onboarding, benefits processing, workplace compliance, and internal employee conflict resolution initiatives for a rapidly expanding cleantech engineering campus.",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_021",
+    "title": "Sales Development Representative",
+    "company": "LogiRoute Software",
+    "location": "Chicago, IL (On-site)",
+    "salary_range": "$60,000 - $80,000",
+    "description": "Execute outbound cold-calling, email prospecting campaigns, and qualify high-value leads for account executives. Great communication skills and a hunter mentality are required.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_022",
+    "title": "Account Executive",
+    "company": "CloudVault Data",
+    "location": "Washington, DC",
+    "salary_range": "$110,000 - $150,000",
+    "description": "Manage enterprise-tier sales cycles within federal agency profiles. Negotiate deal closures, present high-level structural security overviews, and exceed assigned quarterly sales quotas.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_023",
+    "title": "Customer Support Lead",
+    "company": "TechNova Solutions",
+    "location": "Remote (US)",
+    "salary_range": "$65,000 - $85,000",
+    "description": "Lead an escalating support desk resolving complex financial user data issues. Track ticket resolution SLA timelines via Zendesk and coordinate bug tickets directly into core tech pods.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_024",
+    "title": "Data Analyst",
+    "company": "MarketPulse Media",
+    "location": "Remote (US)",
+    "salary_range": "$80,000 - $105,000",
+    "description": "Construct marketing attribution pipelines using SQL and Tableau. Translate raw multi-channel ad spend datasets into actionable recommendations for client campaign budget scaling.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_025",
+    "title": "Security Analyst",
+    "company": "CyberShield Inc",
+    "location": "Denver, CO (Hybrid)",
+    "salary_range": "$115,000 - $145,000",
+    "description": "Monitor Security Information and Event Management (SIEM) systems for malicious anomalies. Lead threat-hunting missions and perform security architecture reviews on internal systems.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_026",
+    "title": "Content Marketing Manager",
+    "company": "DesignStudio Labs",
+    "location": "New York, NY",
+    "salary_range": "$90,000 - $120,000",
+    "description": "Write industry thought-leadership whitepapers, blog publications, and case study briefs highlighting deep technical design projects to convert inbound enterprise buyer prospects.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_027",
+    "title": "Financial Analyst",
+    "company": "FinInsight Analytics",
+    "location": "Boston, MA",
+    "salary_range": "$85,000 - $115,000",
+    "description": "Build historical corporate valuation frameworks, manage cash-flow optimization tracking tables, and prepare periodic financial reporting materials for board-level stakeholders.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_028",
+    "title": "Office Administrator",
+    "company": "HealthFlow Diagnostics",
+    "location": "Chicago, IL (On-site)",
+    "salary_range": "$50,000 - $65,000",
+    "description": "Coordinate facility supply chain networks, manage visiting executive schedules, orchestrate regional vendor invoicing, and maintain everyday operations of our medical tech campus.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_029",
+    "title": "Network Engineer",
+    "company": "CloudVault Data",
+    "location": "Dallas, TX",
+    "salary_range": "$120,000 - $155,000",
+    "description": "Design and maintain high-throughput software-defined networks (SDN). Implement resilient routing mesh architecture across multiple physical data centers and remote pop sites.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_030",
+    "title": "Solutions Architect",
+    "company": "Quantum Leap AI",
+    "location": "Remote (US-East)",
+    "salary_range": "$165,000 - $210,000",
+    "description": "Act as a technical bridge during late-stage enterprise sales. Design deployment plans for AI model suites inside client-managed private clouds or complex on-prem infrastructure environments.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_031",
+    "title": "Graphic Designer",
+    "company": "PixelPerfect Apps",
+    "location": "Remote (Global)",
+    "salary_range": "$65,000 - $85,000",
+    "description": "Create brand design assets, vector illustrations, promotional banners, and social collateral matching cohesive digital aesthetics across high-end client product launches.",
+    "company_info": "PixelPerfect Apps is an award-winning design and development agency. We partner with global brands to create memorable digital experiences, fostering a highly collaborative and remote-first work environment."
+  },
+  {
+    "id": "job_032",
+    "title": "Business Development Manager",
+    "company": "LogiRoute Software",
+    "location": "Atlanta, GA (Hybrid)",
+    "salary_range": "$100,000 - $135,000",
+    "description": "Form strategic alliances with global cargo carriers and supply chain integrations. Source, negotiate, and close high-impact B2B licensing integrations for our logistics software.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_033",
+    "title": "Growth Hacker",
+    "company": "MarketPulse Media",
+    "location": "Remote (US)",
+    "salary_range": "$95,000 - $130,000",
+    "description": "Devise and run viral customer acquisition funnels, rapid A/B testing loops, and scraping tools to optimize customer landing conversion ratios for early stage SaaS clients.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_034",
+    "title": "Hardware Verification Engineer",
+    "company": "HealthFlow Diagnostics",
+    "location": "San Jose, CA",
+    "salary_range": "$140,000 - $185,000",
+    "description": "Perform signal integrity diagnostics, thermal envelope modeling, and formal FCC compliance verification on physical medical sensor nodes before mass consumer distribution.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_035",
+    "title": "VP of Engineering",
+    "company": "TechNova Solutions",
+    "location": "San Francisco, CA",
+    "salary_range": "$240,000 - $310,000",
+    "description": "Provide strategic technical and operational leadership across our international engineering organization. Scale developer structures, align platform roadmaps, and optimize product delivery cycles.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_036",
+    "title": "Legal Counsel",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX (Hybrid)",
+    "salary_range": "$160,000 - $210,000",
+    "description": "Draft regulatory utility filings, structure corporate project financing paper trails, and oversee internal legal compliance across environmental and energy infrastructure grids.",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_037",
+    "title": "Product Marketing Manager",
+    "company": "OmniRetail Corp",
+    "location": "New York, NY",
+    "salary_range": "$110,000 - $145,000",
+    "description": "Lead multi-channel messaging and market placement campaigns for our modernized business checkout ecosystems. Author product positioning books and train internal sales representatives.",
+    "company_info": "OmniRetail operates thousands of storefront systems internationally. We are currently modernizing our monolithic codebase into microservices to handle holiday-level traffic year-round."
+  },
+  {
+    "id": "job_038",
+    "title": "Systems Administrator",
+    "company": "FinInsight Analytics",
+    "location": "Chicago, IL (On-site)",
+    "salary_range": "$85,000 - $115,000",
+    "description": "Provision high-frequency physical trade hardware racks, configure Linux system kernel parameter rules, and handle low-latency internal network configurations.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_039",
+    "title": "Copywriter",
+    "company": "DesignStudio Labs",
+    "location": "Remote (US)",
+    "salary_range": "$70,000 - $95,000",
+    "description": "Craft landing page slogans, clear mobile interface copy string bundles, and write external promotional brand storytelling campaigns for an eclectic roster of high-growth client apps.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_040",
+    "title": "Cloud Architect",
+    "company": "CyberShield Inc",
+    "location": "Remote (US)",
+    "salary_range": "$175,000 - $225,000",
+    "description": "Design secure cloud landing zones across AWS, Azure, and GCP. Author global enterprise IAM policies, build immutable network topologies, and implement robust data protection guardrails.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_041",
+    "title": "UX Researcher",
+    "company": "PixelPerfect Apps",
+    "location": "Remote (Europe)",
+    "salary_range": "$85,000 - $115,000",
+    "description": "Design, coordinate, and execute qualitative global user behavior field studies. Translate field feedback into digestible feature optimization reports for engineering crews.",
+    "company_info": "PixelPerfect Apps is an award-winning design and development agency. We partner with global brands to create memorable digital experiences, fostering a highly collaborative and remote-first work environment."
+  },
+  {
+    "id": "job_042",
+    "title": "Director of Product",
+    "company": "HealthFlow Diagnostics",
+    "location": "Chicago, IL",
+    "salary_range": "$190,000 - $240,000",
+    "description": "Steer macro product visions across the complete telemedicine and biosensor medical application fleet. Lead an expanding core team of senior product managers.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_043",
+    "title": "Mobile QA Engineer",
+    "company": "TechNova Solutions",
+    "location": "Remote (US)",
+    "salary_range": "$85,000 - $110,000",
+    "description": "Perform comprehensive black-box and exploratory testing across iOS and Android builds. Capture detailed memory leak device logs using Xcode Instruments and Android Studio Profiler.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_044",
+    "title": "Data Warehouse Engineer",
+    "company": "LogiRoute Software",
+    "location": "Denver, CO",
+    "salary_range": "$125,000 - $160,000",
+    "description": "Construct scalable data lake pipelines inside Snowflake and BigQuery. Author optimized dbt translation scripts to convert raw geolocation signals into clear analytical models.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_045",
+    "title": "Director of Security",
+    "company": "CyberShield Inc",
+    "location": "Denver, CO (Hybrid)",
+    "salary_range": "$210,000 - $270,000",
+    "description": "Command all aspects of defensive security posture. Supervise internal red-teaming programs, own threat mitigation policies, and report posture assessments directly to executive leadership.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_046",
+    "title": "Talent Acquisition Specialist",
+    "company": "Quantum Leap AI",
+    "location": "Remote (US)",
+    "salary_range": "$80,000 - $110,000",
+    "description": "Manage technical sourcing and full-cycle engineering recruitment pipelines for specialized machine learning, infrastructure, and applied AI software engineering profiles.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_047",
+    "title": "Information Security Officer",
+    "company": "CloudVault Data",
+    "location": "Washington, DC",
+    "salary_range": "$160,000 - $205,000",
+    "description": "Enforce institutional security framework matches against SOC2, ISO27001, and FedRAMP standards across internal software cycles and distributed server environments.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_048",
+    "title": "Community Manager",
+    "company": "DesignStudio Labs",
+    "location": "Remote (Global)",
+    "salary_range": "$55,000 - $75,000",
+    "description": "Nurture developer and designer engagement programs across digital communication forums (Discord, Slack). Moderate open design challenge events and produce creative community newsletters.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_049",
+    "title": "Video Editor & Animator",
+    "company": "MarketPulse Media",
+    "location": "Miami, FL (Hybrid)",
+    "salary_range": "$75,000 - $100,000",
+    "description": "Produce interactive motion graphic sequences, cut promotional brand ads, and manage post-production assets using Adobe After Effects and Premiere Pro for diverse client growth loops.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_050",
+    "title": "Sustainability Analyst",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX",
+    "salary_range": "$85,000 - $110,000",
+    "description": "Model structural carbon impact offset values for industrial power smart grids. Translate environmental ledger metrics into compliance validation materials for state agencies.",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_051",
+    "title": "Embedded Systems Engineer",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX (Hybrid)",
+    "salary_range": "$130,000 - $170,000",
+    "description": "Write efficient C/C++ firmware for microcontrollers embedded within smart-grid power hubs. Optimize energy usage states and configure reliable hardware communication buses (SPI, I2C).",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_052",
+    "title": "Principal Cloud Security Architect",
+    "company": "CyberShield Inc",
+    "location": "Remote (US)",
+    "salary_range": "$200,000 - $250,000",
+    "description": "Set architectural security patterns for distributed multi-tenant cloud ecosystems. Build automated threat-modeling tools and construct advanced real-time monitoring infrastructure.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_053",
+    "title": "Senior Product Manager - Fintech",
+    "company": "TechNova Solutions",
+    "location": "New York, NY (Hybrid)",
+    "salary_range": "$160,000 - $200,000",
+    "description": "Lead development of deep lending and micro-credit software engines. Run data-informed product discovery cycles and map multi-quarter engineering execution milestones.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_054",
+    "title": "Quantitative Developer",
+    "company": "FinInsight Analytics",
+    "location": "New York, NY (On-site)",
+    "salary_range": "$180,000 - $240,000",
+    "description": "Implement ultra-low latency execution strategies in modern C++. Optimize kernel bypass networking configurations and profile system hardware bottlenecks to shave off microseconds.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_055",
+    "title": "Lead UI Developer - React",
+    "company": "Quantum Leap AI",
+    "location": "Remote (US)",
+    "salary_range": "$140,000 - $180,000",
+    "description": "Architect internal modular UI design system packages used across all AI web portals. Enforce strict web accessibility rules (WCAG AA) and optimize rendering rendering trees.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_056",
+    "title": "Compliance Director",
+    "company": "HealthFlow Diagnostics",
+    "location": "Chicago, IL",
+    "salary_range": "$150,000 - $190,000",
+    "description": "Supervise software data processing audits to protect strict HIPAA compliance boundaries. Maintain updated legal regulatory maps across expanding biosensor hardware suites.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_057",
+    "title": "Senior Solutions Engineer",
+    "company": "CloudVault Data",
+    "location": "San Francisco, CA (Hybrid)",
+    "salary_range": "$135,000 - $175,000",
+    "description": "Partner with enterprise client engineers to build custom encrypted cloud storage file connectors. Create production-ready architectural patterns blueprints and code libraries.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_058",
+    "title": "Lead Freight Operations Manager",
+    "company": "LogiRoute Software",
+    "location": "Atlanta, GA",
+    "salary_range": "$95,000 - $125,000",
+    "description": "Oversee large-scale enterprise route monitoring teams. Analyze predictive delay logs to supply our internal engineering pods with raw operational feedback loops.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_059",
+    "title": "VP of Growth Marketing",
+    "company": "MarketPulse Media",
+    "location": "Miami, FL",
+    "salary_range": "$180,000 - $230,000",
+    "description": "Own commercial client user acquisition strategy metrics. Allocate millions in annual ad spend, build advanced tracking structures, and direct expanding growth management pods.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_060",
+    "title": "Senior Brand Designer",
+    "company": "DesignStudio Labs",
+    "location": "Los Angeles, CA (Hybrid)",
+    "salary_range": "$110,000 - $145,000",
+    "description": "Construct foundational visual identity guides, typography choices, and complete physical and digital asset design kits for fast-growing technology start-up ventures.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_061",
+    "title": "Staff Infrastructure Architect",
+    "company": "OmniRetail Corp",
+    "location": "Dallas, TX",
+    "salary_range": "$195,000 - $240,000",
+    "description": "Redesign global cloud checkout cluster infrastructure. Drive platform transitions to zero-downtime blue-green architectures capable of absorbing immense transactional spikes.",
+    "company_info": "OmniRetail operates thousands of storefront systems internationally. We are currently modernizing our monolithic codebase into microservices to handle holiday-level traffic year-round."
+  },
+  {
+    "id": "job_062",
+    "title": "Staff Android Engineer",
+    "company": "PixelPerfect Apps",
+    "location": "Remote (US)",
+    "salary_range": "$160,000 - $200,000",
+    "description": "Lead design and internal library creations for complex mobile multimedia rendering engines. Establish foundational Android performance telemetry across application lines.",
+    "company_info": "PixelPerfect Apps is an award-winning design and development agency. We partner with global brands to create memorable digital experiences, fostering a highly collaborative and remote-first work environment."
+  },
+  {
+    "id": "job_063",
+    "title": "Technical Account Manager",
+    "company": "CloudVault Data",
+    "location": "Denver, CO",
+    "salary_range": "$105,000 - $135,000",
+    "description": "Serve as main primary technical resource for institutional cloud clients. Unblock infrastructure support obstacles and coordinate client-driven features back to backend teams.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_064",
+    "title": "Director of Quantitative Research",
+    "company": "FinInsight Analytics",
+    "location": "Boston, MA",
+    "salary_range": "$250,000 - $330,000",
+    "description": "Steer algorithmic alpha generation initiatives. Direct teams of PhD quantitative scientists modeling statistical arbitrage, market microstructure patterns, and predictive matrices.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_065",
+    "title": "Senior Site Reliability Engineer",
+    "company": "TechNova Solutions",
+    "location": "Remote (US)",
+    "salary_range": "$155,000 - $195,000",
+    "description": "Own live platform up-time metrics for distributed retail financial core microservices. Build self-healing orchestration scripts and eliminate single infrastructure failure points.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_066",
+    "title": "Senior Data Scientist - NLP",
+    "company": "Quantum Leap AI",
+    "location": "San Francisco, CA",
+    "salary_range": "$165,000 - $205,000",
+    "description": "Train custom text parsing and synthesis engines optimized to comprehend highly fragmented unstructured clinical health summaries or legacy warehouse logistics ledgers.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_067",
+    "title": "App Store Optimization Manager",
+    "company": "PixelPerfect Apps",
+    "location": "Remote (Global)",
+    "salary_range": "$80,000 - $110,000",
+    "description": "Maximize organic visibility within the Apple App Store and Google Play. Run iterative metadata experiments, localizations, and creative conversion optimization asset testing.",
+    "company_info": "PixelPerfect Apps is an award-winning design and development agency. We partner with global brands to create memorable digital experiences, fostering a highly collaborative and remote-first work environment."
+  },
+  {
+    "id": "job_068",
+    "title": "Penetration Tester",
+    "company": "CyberShield Inc",
+    "location": "Remote (US/Canada)",
+    "salary_range": "$130,000 - $170,000",
+    "description": "Conduct offensive exploit simulations against internal product codebases and network structures. Author remediation manuals detailing vulnerabilities before malicious discovery.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_069",
+    "title": "Full Stack Engineer (Django + Vue)",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX (Hybrid)",
+    "salary_range": "$115,000 - $150,000",
+    "description": "Maintain and grow green asset telemetry control surfaces. Build performant data pipelines in Python/Django and craft interactive real-time mapping layers using Vue.js.",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_070",
+    "title": "Senior Product Analyst",
+    "company": "OmniRetail Corp",
+    "location": "Remote (US)",
+    "salary_range": "$100,000 - $135,000",
+    "description": "Evaluate conversion paths and feature interactions within global storefront flows. Build predictive churn metrics tables and map user friction points via Amplitude or Mixpanel.",
+    "company_info": "OmniRetail operates thousands of storefront systems internationally. We are currently modernizing our monolithic codebase into microservices to handle holiday-level traffic year-round."
+  },
+  {
+    "id": "job_071",
+    "title": "Medical Director - Telehealth",
+    "company": "HealthFlow Diagnostics",
+    "location": "Chicago, IL (Hybrid)",
+    "salary_range": "$220,000 - $280,000",
+    "description": "Provide critical clinical supervision across virtual practitioner operations. Guide product development protocols to keep software workflows in step with patient care best practices.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_072",
+    "title": "Logistics Route Optimizer",
+    "company": "LogiRoute Software",
+    "location": "Chicago, IL",
+    "salary_range": "$90,000 - $120,000",
+    "description": "Apply complex mathematical modeling and geographic graph heuristics to solve high-density multi-stop fleet delivery routes, lowering operational costs and total transit times.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_073",
+    "title": "Paid Acquisition Specialist",
+    "company": "MarketPulse Media",
+    "location": "Remote (US)",
+    "salary_range": "$75,000 - $105,000",
+    "description": "Own setup, budget scaling, and daily micro-optimization across search and social paid channels (Google Ads, Meta, LinkedIn) across a complex client startup portfolio.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_074",
+    "title": "VP of People Operations",
+    "company": "TechNova Solutions",
+    "location": "San Francisco, CA",
+    "salary_range": "$180,000 - $230,000",
+    "description": "Architect strategic global workforce plans, refine total rewards policies, and foster an empathetic, high-performance culture across scaling software engineering organizations.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_075",
+    "title": "Lead Motion Designer",
+    "company": "DesignStudio Labs",
+    "location": "New York, NY (Hybrid)",
+    "salary_range": "$115,000 - $150,000",
+    "description": "Envision and implement sophisticated UI interactions, micro-animations, and animated promotional content that elevates interactive software products into memorable experiences.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_076",
+    "title": "Information Security Engineer",
+    "company": "FinInsight Analytics",
+    "location": "New York, NY",
+    "salary_range": "$145,000 - $185,000",
+    "description": "Build protective perimeter defense infrastructure around critical financial data lines. Deploy automated secret scanning and enforce zero-trust endpoint protection patterns.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_077",
+    "title": "Senior Rust Developer",
+    "company": "CloudVault Data",
+    "location": "Remote (Global)",
+    "salary_range": "$160,000 - $210,000",
+    "description": "Write low-level, high-concurrency storage microservices using Rust. Optimize memory consumption configurations and build highly reliable network cryptographic libraries.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_078",
+    "title": "Staff AI Research Scientist",
+    "company": "Quantum Leap AI",
+    "location": "Seattle, WA",
+    "salary_range": "$220,000 - $290,000",
+    "description": "Innovate new foundation network layer patterns. Author deep machine learning papers, submit patent applications, and design custom optimization training codebases.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_079",
+    "title": "Customer Success Manager",
+    "company": "LogiRoute Software",
+    "location": "Denver, CO (Hybrid)",
+    "salary_range": "$85,000 - $115,000",
+    "description": "Manage ongoing customer relationships with shipping line mid-tier management. Run quarterly usage reviews, prevent account churn, and drive product tier expansions.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_080",
+    "title": "Lead Software Test Engineer",
+    "company": "OmniRetail Corp",
+    "location": "Dallas, TX",
+    "salary_range": "$120,000 - $155,000",
+    "description": "Establish overarching automated test coverage metrics across globally deployed payment microservices. Coach teams in developing sound integration mock suites.",
+    "company_info": "OmniRetail operates thousands of storefront systems internationally. We are currently modernizing our monolithic codebase into microservices to handle holiday-level traffic year-round."
+  },
+  {
+    "id": "job_081",
+    "title": "Director of Growth",
+    "company": "PixelPerfect Apps",
+    "location": "Remote (US)",
+    "salary_range": "$150,000 - $190,000",
+    "description": "Drive enterprise user acquisition strategy for our consumer product lines. Oversee conversion rate optimization (CRO) loops and optimize performance marketing budgets.",
+    "company_info": "PixelPerfect Apps is an award-winning design and development agency. We partner with global brands to create memorable digital experiences, fostering a highly collaborative and remote-first work environment."
+  },
+  {
+    "id": "job_082",
+    "title": "Database Engineer (NoSQL)",
+    "company": "CyberShield Inc",
+    "location": "Denver, CO",
+    "salary_range": "$130,000 - $165,000",
+    "description": "Architect and scale high-throughput Cassandra and MongoDB clusters tasked with capturing gigabytes of real-time endpoint streaming cyber threat signals.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_083",
+    "title": "Field Marketing Coordinator",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX (On-site)",
+    "salary_range": "$65,000 - $85,000",
+    "description": "Plan, organize, and execute regional clean energy industry trade exhibitions, local utility conferences, and corporate thought-leadership event activations.",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_084",
+    "title": "Technical Support Engineer (L3)",
+    "company": "CloudVault Data",
+    "location": "Remote (US)",
+    "salary_range": "$95,000 - $125,000",
+    "description": "Debug production-level network failures, encrypted payload corruption bugs, and complex system configuration issues escalated by enterprise cloud clients.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_085",
+    "title": "Senior Web Web Developer",
+    "company": "MarketPulse Media",
+    "location": "Miami, FL",
+    "salary_range": "$110,000 - $145,000",
+    "description": "Build high-speed, interactive marketing web ecosystems, custom content management layouts, and bespoke campaign landing elements using Next.js and Sanity CMS.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_086",
+    "title": "Biosensor Hardware Designer",
+    "company": "HealthFlow Diagnostics",
+    "location": "San Jose, CA (On-site)",
+    "salary_range": "$145,000 - $190,000",
+    "description": "Design analog front-end circuits for continuous wearable monitoring devices. Model signal-to-noise filters and iterate compact PCB layouts for consumer use cases.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_087",
+    "title": "Principal iOS Engineer",
+    "company": "TechNova Solutions",
+    "location": "San Francisco, CA (Hybrid)",
+    "salary_range": "$200,000 - $250,000",
+    "description": "Architect the overarching mobile system designs for our unified global banking application. Author foundation caching engines and mentor lead mobile engineers.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_088",
+    "title": "Corporate Controller",
+    "company": "OmniRetail Corp",
+    "location": "Dallas, TX",
+    "salary_range": "$140,000 - $180,000",
+    "description": "Direct core corporate accounting operations, international tax compliance structures, internal auditing schedules, and formal SEC-aligned reporting workflows.",
+    "company_info": "OmniRetail operates thousands of storefront systems internationally. We are currently modernizing our monolithic codebase into microservices to handle holiday-level traffic year-round."
+  },
+  {
+    "id": "job_089",
+    "title": "Senior Technical Recruiter",
+    "company": "DesignStudio Labs",
+    "location": "Remote (US)",
+    "salary_range": "$90,000 - $125,000",
+    "description": "Own full lifecycle recruitment funnels targeting elite product designers, creative directors, frontend interaction experts, and executive product design leads.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_090",
+    "title": "Linux Systems Programmer",
+    "company": "FinInsight Analytics",
+    "location": "Chicago, IL",
+    "salary_range": "$160,000 - $210,000",
+    "description": "Develop low-level systems code for custom high-frequency market data capture devices. Fine-tune system network stacks and remove runtime context switches.",
+    "company_info": "FinInsight Analytics delivers advanced quantitative trading infrastructure to institutional hedge funds and boutique asset managers looking to gain a data edge."
+  },
+  {
+    "id": "job_091",
+    "title": "DevSecOps Specialist",
+    "company": "CyberShield Inc",
+    "location": "Remote (US)",
+    "salary_range": "$150,000 - $190,000",
+    "description": "Inject automated static (SAST) and dynamic (DAST) source-code security scanning protocols straight into high-speed continuous delivery software release pipelines.",
+    "company_info": "CyberShield Inc builds enterprise cybersecurity threat detection products that shield critical corporate infrastructure from sophisticated state-sponsored malicious actors."
+  },
+  {
+    "id": "job_092",
+    "title": "Executive Assistant",
+    "company": "Quantum Leap AI",
+    "location": "San Francisco, CA (On-site)",
+    "salary_range": "$75,000 - $100,000",
+    "description": "Provide high-level support to founding executive teams. Coordinate complex board calendar networks, global travel plans, and handle vital operational tasks.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  },
+  {
+    "id": "job_093",
+    "title": "Analytics Engineer",
+    "company": "MarketPulse Media",
+    "location": "Remote (Global)",
+    "salary_range": "$95,000 - $130,000",
+    "description": "Bridge the gap between raw web logging data and clean marketing data models. Build, test, and maintain robust data transformation maps using dbt and SQL.",
+    "company_info": "MarketPulse Media is a full-service growth marketing firm specializing in organic traffic scaling, high-ROI paid media management, and social branding initiatives."
+  },
+  {
+    "id": "job_094",
+    "title": "Firmware Test Engineer",
+    "company": "GreenGrid Energy",
+    "location": "Austin, TX",
+    "salary_range": "$100,000 - $135,000",
+    "description": "Build automated hardware-in-the-loop (HIL) testing rigs to rigorously stress-test embedded power distribution logic boards under extreme network fault simulations.",
+    "company_info": "GreenGrid Energy is an eco-tech company building software solutions for sustainable energy management. Our mission is to accelerate the transition to clean energy through real-time data transparency."
+  },
+  {
+    "id": "job_095",
+    "title": "Strategic Account Director",
+    "company": "LogiRoute Software",
+    "location": "Atlanta, GA (Hybrid)",
+    "salary_range": "$130,000 - $170,000",
+    "description": "Manage business relations and overall financial health for our largest enterprise multi-national freight and global supply chain software users.",
+    "company_info": "LogiRoute creates freight tracking, routing optimization, and automated dispatcher management systems for cross-country shipping lines and supply chain operators."
+  },
+  {
+    "id": "job_096",
+    "title": "Content Strategist",
+    "company": "DesignStudio Labs",
+    "location": "Remote (US)",
+    "salary_range": "$85,000 - $115,000",
+    "description": "Develop comprehensive content blueprints, information maps, and copy guidelines for international digital consumer mobile applications and platforms.",
+    "company_info": "DesignStudio Labs acts as an embedded design partner for high-growth tech startups. We turn complex technical problems into beautiful, highly interactive user experiences."
+  },
+  {
+    "id": "job_097",
+    "title": "Senior Infrastructure Engineer",
+    "company": "CloudVault Data",
+    "location": "Denver, CO",
+    "salary_range": "$145,000 - $185,000",
+    "description": "Deploy, configure, and maintain bare-metal Linux server clusters behind our distributed, highly secure cryptographic cloud storage arrays.",
+    "company_info": "CloudVault Data provides ultra-secure, decentralized cloud storage environments for compliance-heavy industries including defense, healthcare, and global finance."
+  },
+  {
+    "id": "job_098",
+    "title": "Risk Management Director",
+    "company": "TechNova Solutions",
+    "location": "New York, NY",
+    "salary_range": "$170,000 - $220,000",
+    "description": "Formulate institutional fraud prevention policies, transaction verification patterns, and cross-border payment risk models across mobile consumer profiles.",
+    "company_info": "TechNova Solutions is a leading fintech innovator dedicated to simplifying personal finance for over 5 million users worldwide. Founded in 2018, we pride ourselves on an inclusive culture and cutting-edge tech stacks."
+  },
+  {
+    "id": "job_099",
+    "title": "Lead Patient Experience Coordinator",
+    "company": "HealthFlow Diagnostics",
+    "location": "Chicago, IL (On-site)",
+    "salary_range": "$60,000 - $80,000",
+    "description": "Supervise remote patient support pods assisting users in setting up connected health hardware nodes. Guide internal engineering updates to lower user churn.",
+    "company_info": "HealthFlow Diagnostics builds connected remote wellness and diagnostics technology designed to bring specialist medical care straight into the home environments of elderly patients."
+  },
+  {
+    "id": "job_100",
+    "title": "Director of Engineering - Applied AI",
+    "company": "Quantum Leap AI",
+    "location": "San Francisco, CA (Hybrid)",
+    "salary_range": "$230,000 - $300,000",
+    "description": "Provide strategic execution leadership across software engineering pods building enterprise web interfaces and data systems driven by foundation AI engines.",
+    "company_info": "Quantum Leap AI creates predictive modeling tools for healthcare and logistics providers. We are heavily VC-backed and expanding our product engineering core rapidly."
+  }
+]
+
